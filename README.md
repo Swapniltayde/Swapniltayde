@@ -1,10 +1,5 @@
 Hi there, I'm Swapnil! 👋
 
-<!--
-**Swapniltayde/Swapniltayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Enthusiastic developer exploring Web Development, Python, Django, and React.
 Interested in Full-Stack Development & Cloud Technologies.
 Currently learning Advanced Django + REST APIs + DevOps tools.
@@ -47,5 +42,3 @@ Top Langs
 📧 Email: gamana@example.com (replace with your email)
 💼 LinkedIn: Your LinkedIn
 🐦 Twitter: @yourhandle
-
--->
